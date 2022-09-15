@@ -1,3 +1,21 @@
+Covered key Features:
+1. ButtonGroup
+2. ToggleButton
+3. ToggleButtonGroup
+4. FormatBold
+5. FormatItalic
+6. FormatUnderlined
+7. useState with MUI
+
+Layout:
+
+![image](https://user-images.githubusercontent.com/15225177/190333852-d4c63365-e4de-4939-86db-7de1018f8fac.png)
+
+
+
+
+
+**********************************************************************************************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
